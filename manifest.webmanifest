@@ -1,0 +1,27 @@
+{
+  "name": "Gendering AI Conference",
+  "short_name": "Gendering AI",
+  "description": "Conference registration, agenda, and personal schedule (offline-capable)",
+  "start_url": ".",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#1a237e",
+  "theme_color": "#1a237e",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
+
+
+
+

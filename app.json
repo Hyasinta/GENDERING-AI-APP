@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "note": "This file is intentionally not an Expo app config. Use mobile/app.json instead.",
+  "extra": {
+    "eas": {
+      "projectId": "5e261e11-b856-4e61-816f-88b2ed2c6909"
+    }
+  },
+  "expo": {
+    "android": {
+      "package": "com.hyasinta_dev.mywebsite"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5e261e11-b856-4e61-816f-88b2ed2c6909"
+      }
+    }
+  }
+}

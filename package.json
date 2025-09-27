@@ -1,0 +1,36 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000g\u0000e\u0000n\u0000d\u0000e\u0000r\u0000i\u0000n\u0000g\u0000_\u0000a\u0000i\u0000\r\u0000 \u0000",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "cd mobile && expo start",
+    "android": "cd mobile && expo start --android",
+    "ios": "cd mobile && expo start --ios",
+    "web": "cd mobile && expo start --web",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sesiliarichard/gendering_ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sesiliarichard/gendering_ai/issues"
+  },
+  "homepage": "https://github.com/sesiliarichard/gendering_ai#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "eas-cli": "^16.19.3",
+    "expo": "^54.0.9",
+    "expo-updates": "~29.0.11",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "^20.0.2",
+    "@types/react": "~19.1.10",
+    "typescript": "~5.9.2"
+  }
+}
